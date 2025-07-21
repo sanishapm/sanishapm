@@ -18,7 +18,7 @@ I'm an aspiring Data Analyst passionate about turning raw data into meaningful i
 
 | Category | Tools & Technologies |
 |---------|-----------------------|
-| **Languages** | Python (Pandas, NumPy, Scikit‑learn)<br>SQL (MySQL)<br>R (Basic proficiency) |
+| **Languages** | Python (Pandas, NumPy, Scikit‑learn)<br>SQL (MySQL) |
 | **Visualization** | Matplotlib · Seaborn · Excel · Power BI |
 
 ---
