@@ -1,9 +1,6 @@
 ![Header](./github-header-image.png)
 ## 👋 Hi, I’m Nisha Kumari  
 I'm an aspiring Data Analyst passionate about turning raw data into meaningful insights.
-
----
-# 💫 About Me:
 My journey into the world of data began with a fascination for how numbers can tell compelling stories, leading me to pursue various projects that sharpened my analytical skills and enhanced my proficiency in tools like:
 
 - SQL & Database Management (MySQL)
